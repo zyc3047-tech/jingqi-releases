@@ -4,7 +4,7 @@ Android 开屏广告跳过工具。需要 Android 8.0 或以上，并手动启�
 
 ## 下载与安装
 
-前往 [版本下载页](https://github.com/zyc3047-tech/jingqi-releases/releases/tag/v0.1.28)，下载 `jingqi-0.1.28.apk`，按系统提示安装。已经安装旧版的用户直接覆盖安装即可，请勿先卸载，以免丢失设置。
+直接下载 [净启 0.1.28 APK](https://zyc3047-tech.github.io/jingqi-releases/jingqi-0.1.28.apk)，或前往 [版本下载页](https://github.com/zyc3047-tech/jingqi-releases/releases/tag/v0.1.28)，下载 `jingqi-0.1.28.apk`，按系统提示安装。已经安装旧版的用户直接覆盖安装即可，请勿先卸载，以免丢失设置。
 
 应用内「操作教程」提供权限设置、规则和排查方法。当前是好友体验测试版，采用现有开发签名以支持旧版覆盖升级。
 
