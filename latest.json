@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "packageName": "com.jingqi.app",
+  "versionCode": 29,
+  "versionName": "0.1.28",
+  "apkUrl": "https://github.com/zyc3047-tech/jingqi-releases/releases/download/v0.1.28/jingqi-0.1.28.apk",
+  "sha256": "af046bdd87776972af3eefa498cfdea70fa4918a23857b61484ffc469b6f7cb7",
+  "size": 47155542,
+  "minSdk": 26,
+  "notes": "新增应用内更新：打开净启时每天最多检查一次；发现新版后手动下载，由安卓系统确认安装。\n校验安装包大小、SHA256、包名、版本及签名，支持取消下载和失败重试。\n首页新增更新入口，教程补充更新方法。原广告规则和用户设置保留。\n0.1.27 及更早版本需先手动安装本版。当前仍是好友体验测试版，不保证所有广告或所有机型兼容。"
+}
